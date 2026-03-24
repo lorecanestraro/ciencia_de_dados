@@ -1,0 +1,56 @@
+# Este é um cabeçalho de comentário
+# Data da geração:
+2024-01-01
+id_evento,tipo,timestamp,descricao
+1,login,2024-01-01 08:00:00,Usuário admin logou
+2,erro,2024-01-01 08:05:10,Falha ao carregar módulo X
+3,login,2024-01-01 08:10:00,Usuário convidado logou
+4,sucesso,2024-01-01 08:15:30,Operação concluída
+5,login,2024-01-01 08:20:00,Usuário admin logou
+6,erro,2024-01-01 08:25:12,Falha de autenticação
+7,sucesso,2024-01-01 08:30:20,Backup realizado
+8,login,2024-01-01 08:35:00,Usuário maria logou
+9,erro,2024-01-01 08:40:10,Timeout no servidor
+10,sucesso,2024-01-01 08:45:15,Arquivo enviado
+11,login,2024-01-01 08:50:00,Usuário joao logou
+12,erro,2024-01-01 08:55:12,Falha no banco de dados
+13,sucesso,2024-01-01 09:00:00,Atualização concluída
+14,login,2024-01-01 09:05:00,Usuário admin logou
+15,erro,2024-01-01 09:10:45,Permissão negada
+16,sucesso,2024-01-01 09:15:30,Relatório gerado
+17,login,2024-01-01 09:20:00,Usuário carlos logou
+18,erro,2024-01-01 09:25:15,Erro ao acessar API
+19,sucesso,2024-01-01 09:30:10,Upload concluído
+20,login,2024-01-01 09:35:00,Usuário ana logou
+21,erro,2024-01-01 09:40:50,Falha de rede
+22,sucesso,2024-01-01 09:45:00,Processamento concluído
+23,login,2024-01-01 09:50:00,Usuário pedro logou
+24,erro,2024-01-01 09:55:10,Arquivo corrompido
+25,sucesso,2024-01-01 10:00:00,Operação finalizada
+26,login,2024-01-01 10:05:00,Usuário admin logou
+27,erro,2024-01-01 10:10:30,Falha ao conectar servidor
+28,sucesso,2024-01-01 10:15:00,Sincronização concluída
+29,login,2024-01-01 10:20:00,Usuário lucas logou
+30,erro,2024-01-01 10:25:22,Erro desconhecido
+31,sucesso,2024-01-01 10:30:00,Processo concluído
+32,login,2024-01-01 10:35:00,Usuário admin logou
+33,erro,2024-01-01 10:40:40,Token inválido
+34,sucesso,2024-01-01 10:45:10,Exportação realizada
+35,login,2024-01-01 10:50:00,Usuário julia logou
+36,erro,2024-01-01 10:55:18,Falha ao salvar arquivo
+37,sucesso,2024-01-01 11:00:00,Download concluído
+38,login,2024-01-01 11:05:00,Usuário admin logou
+39,erro,2024-01-01 11:10:30,Erro no módulo Y
+40,sucesso,2024-01-01 11:15:00,Backup concluído
+41,login,2024-01-01 11:20:00,Usuário rafael logou
+42,erro,2024-01-01 11:25:44,Conexão perdida
+43,sucesso,2024-01-01 11:30:00,Operação realizada
+44,login,2024-01-01 11:35:00,Usuário admin logou
+45,erro,2024-01-01 11:40:15,Falha no cache
+46,sucesso,2024-01-01 11:45:00,Limpeza concluída
+47,login,2024-01-01 11:50:00,Usuário bruno logou
+48,erro,2024-01-01 11:55:30,Erro de permissão
+49,sucesso,2024-01-01 12:00:00,Processo finalizado
+50,login,2024-01-01 12:05:00,Usuário admin logou
+51,erro,2024-01-01 12:10:12,Falha ao iniciar serviço
+52,sucesso,2024-01-01 12:15:00,Sistema reiniciado

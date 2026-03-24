@@ -1,0 +1,53 @@
+produto;quantidade;preco_unitario
+Monitor;10;799.90
+Teclado;25;120.50
+Mouse;40;50.00
+Webcam;15;250.00
+Notebook;5;3500.00
+Impressora;8;900.00
+Headset;20;180.00
+Caixa de Som;12;220.00
+SSD 240GB;30;200.00
+SSD 480GB;18;350.00
+HD 1TB;22;320.00
+HD 2TB;10;450.00
+Placa de Video;6;2200.00
+Memoria RAM 8GB;35;180.00
+Memoria RAM 16GB;20;320.00
+Processador i5;9;1200.00
+Processador i7;7;1900.00
+Placa Mae;11;850.00
+Fonte 500W;14;300.00
+Fonte 700W;10;420.00
+Gabinete;16;250.00
+Cooler;18;90.00
+Mouse Gamer;22;150.00
+Teclado Gamer;19;280.00
+Monitor 27;8;1200.00
+Webcam HD;17;300.00
+Microfone;13;260.00
+Mesa Digitalizadora;6;980.00
+Roteador;15;350.00
+Switch;9;400.00
+Cabo HDMI;40;35.00
+Cabo de Rede;50;20.00
+Pendrive 32GB;45;60.00
+Pendrive 64GB;30;90.00
+Cartao SD 32GB;25;70.00
+Cartao SD 64GB;18;120.00
+Adaptador USB;28;40.00
+Hub USB;21;75.00
+Estabilizador;10;380.00
+Nobreak;7;750.00
+Projetor;4;2800.00
+Tela de Projecao;5;900.00
+Scanner;6;650.00
+Tablet;9;1400.00
+Smartphone;12;2200.00
+Smartwatch;14;950.00
+Camera Digital;8;1800.00
+Tripé;16;110.00
+Ring Light;20;130.00
+Controle Gamer;18;260.00
+VR Headset;5;3200.00
+Drone;3;4500.00
