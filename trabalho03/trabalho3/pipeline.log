@@ -1,0 +1,243 @@
+2026-04-13 11:12:49,389 [INFO] 
+============================================================
+2026-04-13 11:12:49,389 [INFO]   PIPELINE DE GASTOS PÚBLICOS DO GOVERNO FEDERAL
+2026-04-13 11:12:49,389 [INFO]   Fonte: Portal da Transparência
+2026-04-13 11:12:49,390 [INFO]   Período: 2016 a 2025
+2026-04-13 11:12:49,390 [INFO] ============================================================
+2026-04-13 11:12:49,390 [INFO] ============================================================
+2026-04-13 11:12:49,390 [INFO] COLETANDO DADOS: 2016 a 2025
+2026-04-13 11:12:49,390 [INFO] ============================================================
+2026-04-13 11:12:49,390 [INFO] Processando ano 2016...
+2026-04-13 11:12:52,943 [INFO] Ano 2016 | Página 1: 15 registros coletados
+2026-04-13 11:12:53,336 [INFO] Ano 2016 | Página 2: 15 registros coletados
+2026-04-13 11:12:53,338 [INFO] Total acumulado: 30 registros
+2026-04-13 11:12:53,338 [INFO] Processando ano 2017...
+2026-04-13 11:12:53,718 [INFO] Ano 2017 | Página 1: 15 registros coletados
+2026-04-13 11:12:54,163 [INFO] Ano 2017 | Página 2: 15 registros coletados
+2026-04-13 11:12:54,165 [INFO] Total acumulado: 60 registros
+2026-04-13 11:12:54,165 [INFO] Processando ano 2018...
+2026-04-13 11:12:54,527 [INFO] Ano 2018 | Página 1: 15 registros coletados
+2026-04-13 11:12:54,952 [INFO] Ano 2018 | Página 2: 15 registros coletados
+2026-04-13 11:12:54,954 [INFO] Total acumulado: 90 registros
+2026-04-13 11:12:54,954 [INFO] Processando ano 2019...
+2026-04-13 11:12:55,331 [INFO] Ano 2019 | Página 1: 15 registros coletados
+2026-04-13 11:12:55,739 [INFO] Ano 2019 | Página 2: 15 registros coletados
+2026-04-13 11:12:55,741 [INFO] Total acumulado: 120 registros
+2026-04-13 11:12:55,742 [INFO] Processando ano 2020...
+2026-04-13 11:12:56,128 [INFO] Ano 2020 | Página 1: 15 registros coletados
+2026-04-13 11:12:56,507 [INFO] Ano 2020 | Página 2: 15 registros coletados
+2026-04-13 11:12:56,509 [INFO] Total acumulado: 150 registros
+2026-04-13 11:12:56,509 [INFO] Processando ano 2021...
+2026-04-13 11:12:56,970 [INFO] Ano 2021 | Página 1: 15 registros coletados
+2026-04-13 11:12:57,359 [INFO] Ano 2021 | Página 2: 15 registros coletados
+2026-04-13 11:12:57,360 [INFO] Total acumulado: 180 registros
+2026-04-13 11:12:57,360 [INFO] Processando ano 2022...
+2026-04-13 11:12:57,742 [INFO] Ano 2022 | Página 1: 15 registros coletados
+2026-04-13 11:12:58,182 [INFO] Ano 2022 | Página 2: 15 registros coletados
+2026-04-13 11:12:58,184 [INFO] Total acumulado: 210 registros
+2026-04-13 11:12:58,184 [INFO] Processando ano 2023...
+2026-04-13 11:12:58,562 [INFO] Ano 2023 | Página 1: 15 registros coletados
+2026-04-13 11:12:59,016 [INFO] Ano 2023 | Página 2: 15 registros coletados
+2026-04-13 11:12:59,017 [INFO] Total acumulado: 240 registros
+2026-04-13 11:12:59,017 [INFO] Processando ano 2024...
+2026-04-13 11:12:59,415 [INFO] Ano 2024 | Página 1: 15 registros coletados
+2026-04-13 11:12:59,850 [INFO] Ano 2024 | Página 2: 15 registros coletados
+2026-04-13 11:12:59,852 [INFO] Total acumulado: 270 registros
+2026-04-13 11:12:59,853 [INFO] Processando ano 2025...
+2026-04-13 11:13:00,316 [INFO] Ano 2025 | Página 1: 15 registros coletados
+2026-04-13 11:13:00,679 [INFO] Ano 2025 | Página 2: 15 registros coletados
+2026-04-13 11:13:00,680 [INFO] Total acumulado: 300 registros
+2026-04-13 11:13:00,680 [INFO] Coleta concluída! Total: 300 registros
+2026-04-13 11:13:00,680 [INFO] ============================================================
+2026-04-13 11:13:00,680 [INFO] TRATANDO DADOS
+2026-04-13 11:13:00,681 [INFO] ============================================================
+2026-04-13 11:13:00,682 [INFO] Colunas disponíveis: ['anoMes', 'codigoPessoa', 'nomePessoa', 'tipoPessoa', 'municipioPessoa', 'siglaUFPessoa', 'codigoUG', 'nomeUG', 'codigoOrgao', 'nomeOrgao', 'codigoOrgaoSuperior', 'nomeOrgaoSuperior', 'valor']
+2026-04-13 11:13:00,686 [INFO] Registros após tratamento: 300
+2026-04-13 11:13:00,688 [INFO] Dados salvos em JSON: gastos_publicos.json
+2026-04-13 11:13:00,689 [INFO] ============================================================
+2026-04-13 11:13:00,689 [INFO] CALCULANDO ESTATÍSTICAS
+2026-04-13 11:13:00,689 [INFO] ============================================================
+2026-04-13 11:13:00,689 [WARNING] Colunas necessárias não encontradas.
+2026-04-13 11:13:00,690 [INFO] ============================================================
+2026-04-13 11:13:00,690 [INFO] GERANDO GRÁFICOS
+2026-04-13 11:13:00,690 [INFO] ============================================================
+2026-04-13 11:13:00,690 [WARNING] Colunas necessárias não encontradas. Disponíveis: ['anoMes', 'codigoPessoa', 'nomePessoa', 'tipoPessoa', 'municipioPessoa', 'siglaUFPessoa', 'codigoUG', 'nomeUG', 'cod_orgao', 'orgao', 'codigoOrgaoSuperior', 'nomeOrgaoSuperior', 'valor']
+2026-04-13 11:13:00,690 [INFO] ============================================================
+2026-04-13 11:13:00,691 [INFO] ARMAZENANDO NO BANCO DE DADOS (MySQL)
+2026-04-13 11:13:00,691 [INFO] ============================================================
+2026-04-13 11:14:24,407 [INFO] 
+============================================================
+2026-04-13 11:14:24,408 [INFO]   PIPELINE DE GASTOS PÚBLICOS DO GOVERNO FEDERAL
+2026-04-13 11:14:24,408 [INFO]   Fonte: Portal da Transparência
+2026-04-13 11:14:24,408 [INFO]   Período: 2016 a 2025
+2026-04-13 11:14:24,408 [INFO] ============================================================
+2026-04-13 11:14:24,408 [INFO] ============================================================
+2026-04-13 11:14:24,408 [INFO] COLETANDO DADOS: 2016 a 2025
+2026-04-13 11:14:24,409 [INFO] ============================================================
+2026-04-13 11:14:24,409 [INFO] Processando ano 2016...
+2026-04-13 11:14:27,852 [INFO] Ano 2016 | Página 1: 15 registros coletados
+2026-04-13 11:14:28,257 [INFO] Ano 2016 | Página 2: 15 registros coletados
+2026-04-13 11:14:28,258 [INFO] Total acumulado: 30 registros
+2026-04-13 11:14:28,258 [INFO] Processando ano 2017...
+2026-04-13 11:14:28,651 [INFO] Ano 2017 | Página 1: 15 registros coletados
+2026-04-13 11:14:29,110 [INFO] Ano 2017 | Página 2: 15 registros coletados
+2026-04-13 11:14:29,111 [INFO] Total acumulado: 60 registros
+2026-04-13 11:14:29,111 [INFO] Processando ano 2018...
+2026-04-13 11:14:29,513 [INFO] Ano 2018 | Página 1: 15 registros coletados
+2026-04-13 11:14:29,968 [INFO] Ano 2018 | Página 2: 15 registros coletados
+2026-04-13 11:14:29,969 [INFO] Total acumulado: 90 registros
+2026-04-13 11:14:29,969 [INFO] Processando ano 2019...
+2026-04-13 11:14:30,345 [INFO] Ano 2019 | Página 1: 15 registros coletados
+2026-04-13 11:14:30,752 [INFO] Ano 2019 | Página 2: 15 registros coletados
+2026-04-13 11:14:30,754 [INFO] Total acumulado: 120 registros
+2026-04-13 11:14:30,755 [INFO] Processando ano 2020...
+2026-04-13 11:14:31,206 [INFO] Ano 2020 | Página 1: 15 registros coletados
+2026-04-13 11:14:31,603 [INFO] Ano 2020 | Página 2: 15 registros coletados
+2026-04-13 11:14:31,604 [INFO] Total acumulado: 150 registros
+2026-04-13 11:14:31,605 [INFO] Processando ano 2021...
+2026-04-13 11:14:32,059 [INFO] Ano 2021 | Página 1: 15 registros coletados
+2026-04-13 11:14:32,436 [INFO] Ano 2021 | Página 2: 15 registros coletados
+2026-04-13 11:14:32,437 [INFO] Total acumulado: 180 registros
+2026-04-13 11:14:32,438 [INFO] Processando ano 2022...
+2026-04-13 11:14:32,868 [INFO] Ano 2022 | Página 1: 15 registros coletados
+2026-04-13 11:14:33,260 [INFO] Ano 2022 | Página 2: 15 registros coletados
+2026-04-13 11:14:33,261 [INFO] Total acumulado: 210 registros
+2026-04-13 11:14:33,261 [INFO] Processando ano 2023...
+2026-04-13 11:14:33,631 [INFO] Ano 2023 | Página 1: 15 registros coletados
+2026-04-13 11:14:34,023 [INFO] Ano 2023 | Página 2: 15 registros coletados
+2026-04-13 11:14:34,024 [INFO] Total acumulado: 240 registros
+2026-04-13 11:14:34,025 [INFO] Processando ano 2024...
+2026-04-13 11:14:34,408 [INFO] Ano 2024 | Página 1: 15 registros coletados
+2026-04-13 11:14:34,866 [INFO] Ano 2024 | Página 2: 15 registros coletados
+2026-04-13 11:14:34,869 [INFO] Total acumulado: 270 registros
+2026-04-13 11:14:34,869 [INFO] Processando ano 2025...
+2026-04-13 11:14:35,264 [INFO] Ano 2025 | Página 1: 15 registros coletados
+2026-04-13 11:14:35,646 [INFO] Ano 2025 | Página 2: 15 registros coletados
+2026-04-13 11:14:35,648 [INFO] Total acumulado: 300 registros
+2026-04-13 11:14:35,649 [INFO] Coleta concluída! Total: 300 registros
+2026-04-13 11:14:35,649 [INFO] ============================================================
+2026-04-13 11:14:35,649 [INFO] TRATANDO DADOS
+2026-04-13 11:14:35,649 [INFO] ============================================================
+2026-04-13 11:14:35,652 [INFO] Colunas disponíveis: ['anoMes', 'codigoPessoa', 'nomePessoa', 'tipoPessoa', 'municipioPessoa', 'siglaUFPessoa', 'codigoUG', 'nomeUG', 'codigoOrgao', 'nomeOrgao', 'codigoOrgaoSuperior', 'nomeOrgaoSuperior', 'valor']
+2026-04-13 11:14:35,657 [INFO] Registros após tratamento: 300
+2026-04-13 11:14:35,662 [INFO] Dados salvos em JSON: gastos_publicos.json
+2026-04-13 11:14:35,663 [INFO] ============================================================
+2026-04-13 11:14:35,663 [INFO] CALCULANDO ESTATÍSTICAS
+2026-04-13 11:14:35,664 [INFO] ============================================================
+2026-04-13 11:14:35,664 [WARNING] Colunas necessárias não encontradas.
+2026-04-13 11:14:35,665 [INFO] ============================================================
+2026-04-13 11:14:35,665 [INFO] GERANDO GRÁFICOS
+2026-04-13 11:14:35,666 [INFO] ============================================================
+2026-04-13 11:14:35,666 [WARNING] Colunas necessárias não encontradas. Disponíveis: ['anoMes', 'codigoPessoa', 'nomePessoa', 'tipoPessoa', 'municipioPessoa', 'siglaUFPessoa', 'codigoUG', 'nomeUG', 'cod_orgao', 'orgao', 'codigoOrgaoSuperior', 'nomeOrgaoSuperior', 'valor']
+2026-04-13 11:14:35,666 [INFO] ============================================================
+2026-04-13 11:14:35,666 [INFO] ARMAZENANDO NO BANCO DE DADOS (MySQL)
+2026-04-13 11:14:35,666 [INFO] ============================================================
+2026-04-13 11:14:35,716 [INFO] Conexão MySQL estabelecida (banco: gastos_publicos).
+2026-04-13 11:14:35,813 [INFO] Schema criado (tabelas + índices)
+2026-04-13 11:14:35,850 [INFO] Tabela 'despesas': 300 registros inseridos
+2026-04-13 11:14:35,850 [WARNING] Nenhuma estatística para inserir.
+2026-04-13 11:14:35,851 [WARNING] Colunas para ranking não encontradas. Pulando top_orgaos.
+2026-04-13 11:14:35,851 [INFO] --- Verificação do banco ---
+2026-04-13 11:14:35,877 [INFO] Tabelas: ['despesas', 'estatisticas_anuais', 'top_orgaos']
+2026-04-13 11:14:35,881 [INFO] despesas: 300 registros
+2026-04-13 11:14:35,883 [INFO] estatisticas_anuais: 0 registros
+2026-04-13 11:14:35,884 [INFO] top_orgaos: 0 registros
+2026-04-13 11:14:35,885 [INFO] Anos em 'despesas': [None]
+2026-04-13 11:14:35,886 [INFO] Dados salvos no MySQL com sucesso.
+2026-04-13 11:14:35,886 [INFO] ============================================================
+2026-04-13 11:14:35,886 [INFO] PIPELINE CONCLUÍDO COM SUCESSO!
+2026-04-13 11:14:35,886 [INFO]   Arquivos gerados:
+2026-04-13 11:14:35,886 [INFO]     - gastos_publicos.json
+2026-04-13 11:14:35,886 [INFO]     - grafico_evolucao_anual.png
+2026-04-13 11:14:35,886 [INFO]     - grafico_media_max_min.png
+2026-04-13 11:14:35,887 [INFO]     - grafico_top_orgaos.png
+2026-04-13 11:14:35,887 [INFO] ============================================================
+2026-04-13 11:14:35,887 [INFO] Agendamento ativo: pipeline rodará diariamente à meia-noite. Ctrl+C para encerrar.
+2026-04-23 20:15:10,757 [INFO] 
+============================================================
+2026-04-23 20:15:10,758 [INFO]   PIPELINE DE GASTOS PÚBLICOS DO GOVERNO FEDERAL
+2026-04-23 20:15:10,758 [INFO]   Fonte: Portal da Transparência
+2026-04-23 20:15:10,758 [INFO]   Período: 2016 a 2025
+2026-04-23 20:15:10,759 [INFO] ============================================================
+2026-04-23 20:15:10,759 [INFO] ============================================================
+2026-04-23 20:15:10,759 [INFO] COLETANDO DADOS: 2016 a 2025
+2026-04-23 20:15:10,759 [INFO] ============================================================
+2026-04-23 20:15:10,759 [INFO] Processando ano 2016...
+2026-04-23 20:15:22,498 [INFO] Ano 2016 | Página 1: 15 registros coletados
+2026-04-23 20:15:25,656 [INFO] Ano 2016 | Página 2: 15 registros coletados
+2026-04-23 20:15:25,660 [INFO] Total acumulado: 30 registros
+2026-04-23 20:15:25,660 [INFO] Processando ano 2017...
+2026-04-23 20:15:38,029 [INFO] Ano 2017 | Página 1: 15 registros coletados
+2026-04-23 20:15:41,393 [INFO] Ano 2017 | Página 2: 15 registros coletados
+2026-04-23 20:15:41,396 [INFO] Total acumulado: 60 registros
+2026-04-23 20:15:41,396 [INFO] Processando ano 2018...
+2026-04-23 20:15:55,528 [INFO] Ano 2018 | Página 1: 15 registros coletados
+2026-04-23 20:15:58,826 [INFO] Ano 2018 | Página 2: 15 registros coletados
+2026-04-23 20:15:58,829 [INFO] Total acumulado: 90 registros
+2026-04-23 20:15:58,830 [INFO] Processando ano 2019...
+2026-04-23 20:16:11,844 [INFO] Ano 2019 | Página 1: 15 registros coletados
+2026-04-23 20:16:15,063 [INFO] Ano 2019 | Página 2: 15 registros coletados
+2026-04-23 20:16:15,065 [INFO] Total acumulado: 120 registros
+2026-04-23 20:16:15,066 [INFO] Processando ano 2020...
+2026-04-23 20:16:26,459 [INFO] Ano 2020 | Página 1: 15 registros coletados
+2026-04-23 20:16:29,419 [INFO] Ano 2020 | Página 2: 15 registros coletados
+2026-04-23 20:16:29,424 [INFO] Total acumulado: 150 registros
+2026-04-23 20:16:29,425 [INFO] Processando ano 2021...
+2026-04-23 20:16:42,115 [INFO] Ano 2021 | Página 1: 15 registros coletados
+2026-04-23 20:16:45,452 [INFO] Ano 2021 | Página 2: 15 registros coletados
+2026-04-23 20:16:45,455 [INFO] Total acumulado: 180 registros
+2026-04-23 20:16:45,455 [INFO] Processando ano 2022...
+2026-04-23 20:16:57,541 [INFO] Ano 2022 | Página 1: 15 registros coletados
+2026-04-23 20:17:00,776 [INFO] Ano 2022 | Página 2: 15 registros coletados
+2026-04-23 20:17:00,779 [INFO] Total acumulado: 210 registros
+2026-04-23 20:17:00,779 [INFO] Processando ano 2023...
+2026-04-23 20:17:14,350 [INFO] Ano 2023 | Página 1: 15 registros coletados
+2026-04-23 20:17:17,747 [INFO] Ano 2023 | Página 2: 15 registros coletados
+2026-04-23 20:17:17,749 [INFO] Total acumulado: 240 registros
+2026-04-23 20:17:17,750 [INFO] Processando ano 2024...
+2026-04-23 20:17:29,498 [INFO] Ano 2024 | Página 1: 15 registros coletados
+2026-04-23 20:17:32,612 [INFO] Ano 2024 | Página 2: 15 registros coletados
+2026-04-23 20:17:32,614 [INFO] Total acumulado: 270 registros
+2026-04-23 20:17:32,616 [INFO] Processando ano 2025...
+2026-04-23 20:17:43,043 [INFO] Ano 2025 | Página 1: 15 registros coletados
+2026-04-23 20:17:46,223 [INFO] Ano 2025 | Página 2: 15 registros coletados
+2026-04-23 20:17:46,226 [INFO] Total acumulado: 300 registros
+2026-04-23 20:17:46,227 [INFO] Coleta concluída! Total: 300 registros
+2026-04-23 20:17:46,227 [INFO] ============================================================
+2026-04-23 20:17:46,227 [INFO] TRATANDO DADOS
+2026-04-23 20:17:46,227 [INFO] ============================================================
+2026-04-23 20:17:46,237 [INFO] Colunas disponíveis: ['anoMes', 'codigoPessoa', 'nomePessoa', 'tipoPessoa', 'municipioPessoa', 'siglaUFPessoa', 'codigoUG', 'nomeUG', 'codigoOrgao', 'nomeOrgao', 'codigoOrgaoSuperior', 'nomeOrgaoSuperior', 'valor']
+2026-04-23 20:17:46,274 [INFO] Registros após tratamento: 300
+2026-04-23 20:17:46,279 [INFO] Dados salvos em JSON: gastos_publicos.json
+2026-04-23 20:17:46,280 [INFO] ============================================================
+2026-04-23 20:17:46,280 [INFO] CALCULANDO ESTATÍSTICAS
+2026-04-23 20:17:46,280 [INFO] ============================================================
+2026-04-23 20:17:46,281 [WARNING] Colunas necessárias não encontradas.
+2026-04-23 20:17:46,282 [INFO] ============================================================
+2026-04-23 20:17:46,283 [INFO] GERANDO GRÁFICOS
+2026-04-23 20:17:46,283 [INFO] ============================================================
+2026-04-23 20:17:46,283 [WARNING] Colunas necessárias não encontradas. Disponíveis: ['anoMes', 'codigoPessoa', 'nomePessoa', 'tipoPessoa', 'municipioPessoa', 'siglaUFPessoa', 'codigoUG', 'nomeUG', 'cod_orgao', 'orgao', 'codigoOrgaoSuperior', 'nomeOrgaoSuperior', 'valor']
+2026-04-23 20:17:46,284 [INFO] ============================================================
+2026-04-23 20:17:46,284 [INFO] ARMAZENANDO NO BANCO DE DADOS (MySQL)
+2026-04-23 20:17:46,284 [INFO] ============================================================
+2026-04-23 20:17:46,541 [INFO] Conexão MySQL estabelecida (banco: gastos_publicos).
+2026-04-23 20:17:46,573 [INFO] Schema criado (tabelas + índices)
+2026-04-23 20:17:46,630 [INFO] Tabela 'despesas': 300 registros inseridos
+2026-04-23 20:17:46,630 [WARNING] Nenhuma estatística para inserir.
+2026-04-23 20:17:46,631 [WARNING] Colunas para ranking não encontradas. Pulando top_orgaos.
+2026-04-23 20:17:46,631 [INFO] --- Verificação do banco ---
+2026-04-23 20:17:46,660 [INFO] Tabelas: ['despesas', 'estatisticas_anuais', 'top_orgaos']
+2026-04-23 20:17:46,665 [INFO] despesas: 300 registros
+2026-04-23 20:17:46,675 [INFO] estatisticas_anuais: 0 registros
+2026-04-23 20:17:46,686 [INFO] top_orgaos: 0 registros
+2026-04-23 20:17:46,688 [INFO] Anos em 'despesas': [None]
+2026-04-23 20:17:46,690 [INFO] Dados salvos no MySQL com sucesso.
+2026-04-23 20:17:46,691 [INFO] ============================================================
+2026-04-23 20:17:46,691 [INFO] PIPELINE CONCLUÍDO COM SUCESSO!
+2026-04-23 20:17:46,691 [INFO]   Arquivos gerados:
+2026-04-23 20:17:46,691 [INFO]     - gastos_publicos.json
+2026-04-23 20:17:46,691 [INFO]     - grafico_evolucao_anual.png
+2026-04-23 20:17:46,692 [INFO]     - grafico_media_max_min.png
+2026-04-23 20:17:46,692 [INFO]     - grafico_top_orgaos.png
+2026-04-23 20:17:46,693 [INFO] ============================================================
+2026-04-23 20:17:46,693 [INFO] Agendamento ativo: pipeline rodará diariamente à meia-noite. Ctrl+C para encerrar.
